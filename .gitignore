@@ -1,0 +1,4 @@
+/.devcontainer
+www/app
+www/public
+www/myblog_db.sql
